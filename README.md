@@ -144,7 +144,7 @@ VZ     0.005413721 -0.13880269 0.1358864 -0.05139904  1.000000000
 ```
 ## Conclusion
 
-In this tutorial, you have learned how to:
+In this example, we have seen how to:
 
 - Stream stock prices with quantmod
 - Construct a covariance matrix with quantmod
